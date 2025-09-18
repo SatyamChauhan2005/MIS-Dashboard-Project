@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Age,Gender,City
+C001,Anil Verma,32,M,Delhi
+C002,Sneha Gupta,27,F,Mumbai
+C003,Rohan Mehta,45,M,Kolkata
+C004,Priya Jain,29,F,Jaipur
+C005,Arjun Singh,35,M,Lucknow
+C006,Meera Nair,31,F,Chennai
+C007,Karan Patel,28,M,Ahmedabad
+C008,Divya Sharma,34,F,Bangalore
+C009,Vikas Gupta,40,M,Hyderabad
+C010,Pallavi Joshi,26,F,Pune
