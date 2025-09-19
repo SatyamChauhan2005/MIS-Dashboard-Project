@@ -19,5 +19,6 @@ This project simulates a small company’s employees, customers, and sales data.
 - Top employees by revenue
 - Monthly revenue trend
 - Customer purchase history
+   ! Dashboard Image <a href="https://github.com/SatyamChauhan2005/MIS-Dashboard-Project/blob/main/Employee_Sales_Dashboard.png">
 
 💡 **Tech Stack**: MySQL, SQL
